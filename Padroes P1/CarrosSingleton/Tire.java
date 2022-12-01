@@ -1,0 +1,3 @@
+package CarrosSingleton;
+
+class Tire {}

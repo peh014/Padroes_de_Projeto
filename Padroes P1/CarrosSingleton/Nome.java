@@ -1,0 +1,2 @@
+package CarrosSingleton;
+class Nome {}
